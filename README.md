@@ -21,5 +21,6 @@ Inoltre si vuole fornire la documentazione Javadoc associata al progetto.
 ### Autori
 Giuseppe Costantini  
 Lorenzo Giuliani  
+Xiao Li Savio Feng 
 Simone Di Saverio   
-Savio Feng 
+
