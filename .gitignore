@@ -1,0 +1,7 @@
+target/
+.DS_Store
+.project
+.settings/
+src/main/java/model/.settings
+src/main/java/model/.classpath
+src/main/java/model/.project
