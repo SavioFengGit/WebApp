@@ -18,9 +18,6 @@ Inoltre si vuole fornire la documentazione Javadoc associata al progetto.
 
 **NB** l'applicativo è in grado di riconoscere dove si trova la persona connessa a seconda del suo ip e compilare di conseguenza la sezione di ricerca. Trattandosi di un'applicazione a livello accademico che viene lanciata in locale in questo caso per provare diverse zone d'Italia è necessario modificare sulla classe JobWorld.controller.HomeController la stringa String ip assegnandoli l'Ip della zona desiderata.
 
-### Autori
-Giuseppe Costantini  
-Lorenzo Giuliani  
-Xiao Li Savio Feng <br>
-Simone Di Saverio   
+### Author
+Xiao Li Savio Feng 
 
